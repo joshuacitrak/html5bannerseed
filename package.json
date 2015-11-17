@@ -1,5 +1,5 @@
 {
-  "name": html5-banner-seed",
+  "name": "html5bannerseed",
   "version": "0.0.1",
   "description": "a seed project for html5 banners",
   "main": "gulpfile.js",
